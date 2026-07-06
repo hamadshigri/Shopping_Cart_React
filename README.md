@@ -1,16 +1,81 @@
-# React + Vite
+# React E-Commerce Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive e-commerce web application built with **React.js** and **Tailwind CSS**. The application allows users to browse products, search items, filter by categories, manage their shopping cart, and complete the checkout process with an order confirmation page.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 **Vercel Deployment:**  
+https://shopping-cart-react-sepia-psi.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Browse all available products
+- Search products by name
+- Filter products by category
+- View detailed information for each product
+- Add products to the shopping cart
+- Increase or decrease product quantity
+- Remove products from the cart
+- Checkout page with customer information form
+- Order confirmation page with success message
+- Fully responsive design
+- Fast and clean user interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- **React.js**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **React Router DOM**
+- **Context API**
+
+---
+
+## 📂 Project Workflow
+
+1. Browse all products on the home page.
+2. Search for products using the search bar.
+3. Filter products by selecting a category.
+4. Click on any product to view its detailed information.
+5. Add products to the shopping cart.
+6. Update product quantities or remove items from the cart.
+7. Proceed to the checkout page.
+8. Fill in customer details and submit the order.
+9. View the order confirmation page with a success message.
+
+---
+
+## 📁 Folder Structure
+
+```
+src/
+│── components/
+│── context/
+│── data/
+│── pages/
+│── App.jsx
+│── main.jsx
+```
+---
+
+## 🎯 Future Improvements
+
+- User Authentication
+- Wishlist Feature
+- Payment Gateway Integration (Stripe/PayPal)
+- Product Reviews & Ratings
+- Order History
+- Dark Mode
+- Admin Dashboard
+
+---
+
+## 👨‍💻 Author
+
+**Hamad Shigri**
+
+Full Stack (MERN) Developer
