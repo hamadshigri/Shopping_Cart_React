@@ -2,7 +2,7 @@
 
 A modern and responsive e-commerce web application built with **React.js** and **Tailwind CSS**. The application allows users to browse products, search items, filter by categories, manage their shopping cart, and complete the checkout process with an order confirmation page.
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 **Vercel Deployment:**  
 https://shopping-cart-react-sepia-psi.vercel.app/
@@ -25,7 +25,7 @@ https://shopping-cart-react-sepia-psi.vercel.app/
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **React.js**
 - **Tailwind CSS**
@@ -35,7 +35,7 @@ https://shopping-cart-react-sepia-psi.vercel.app/
 
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 
 1. Browse all products on the home page.
 2. Search for products using the search bar.
@@ -49,7 +49,7 @@ https://shopping-cart-react-sepia-psi.vercel.app/
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 src/
@@ -62,7 +62,7 @@ src/
 ```
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - User Authentication
 - Wishlist Feature
@@ -74,7 +74,7 @@ src/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Hamad Shigri**
 
